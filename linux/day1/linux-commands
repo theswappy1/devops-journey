@@ -1,0 +1,33 @@
+# Linux Commands Practice
+
+## System Monitoring & Disk
+- top
+- df -h
+
+## File & Directory Operations
+- ls
+- ls -1
+- mkdir
+- touch
+- rm
+- rm -r
+- rmdir
+- cp
+- cp -r
+- mv
+
+## Navigation
+- cd
+- pwd
+- cd ..
+
+## File Viewing & Text
+- cat
+- echo
+- zcat
+- head
+- tail
+- tail -f
+- less
+- more
+- wc
